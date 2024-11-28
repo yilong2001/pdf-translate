@@ -9,11 +9,9 @@ Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis [中文]
 
 TFLOP: Table Structure Recognition Framework with Layout Pointer Mechanism [中文]
 
+Accurate structure prediction of biomolecular interactions with AlphaFold 3 [中文]
 
 # 问题反馈
 
 ![wx_mp_cloudai_qr_m1](https://github.com/user-attachments/assets/d1bcb236-5028-4581-b392-a82ffb808aef)
-
-
-
 
