@@ -11,6 +11,7 @@ TFLOP: Table Structure Recognition Framework with Layout Pointer Mechanism [中�
 
 
 # 问题反馈
+![Uploading wx_mp_cloudai_qr_m1.png…]()
 
-![wx_mp_cloudai_qr_m](https://github.com/user-attachments/assets/8ed49f92-ca09-4194-a08e-d9d2b22b7620)
+
 
