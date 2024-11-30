@@ -11,6 +11,12 @@ TFLOP: Table Structure Recognition Framework with Layout Pointer Mechanism [中�
 
 Accurate structure prediction of biomolecular interactions with AlphaFold 3 [中文]
 
+Generalized Predictive Model for Autonomous Driving [中文]
+
+Planning-oriented Autonomous Driving [中文]
+
+Vista, A Generalizable Driving World Model with High Fidelity and Versatile Controllability  [中文]
+
 # 问题反馈
 
 ![wx_mp_cloudai_qr_m1](https://github.com/user-attachments/assets/d1bcb236-5028-4581-b392-a82ffb808aef)
