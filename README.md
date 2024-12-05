@@ -12,7 +12,7 @@ www.seefine.cn
 
 或者联系作者，进行专业批量处理。
 
-# 已翻译 translated
+# translated example 
 
 Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis [多单元解码器与互学习在表格结构与字符识别中的应用]
 
