@@ -2,11 +2,13 @@
 www.seefine.cn 
 
 * Free
+* 基于OpenAI大模型的翻译，专业的翻译效果
+* 基于专业OCR功能，完美支持扫描版PDF
 * PDF转DOC
-* 图像文本转DOC，内置OCR(Free)
+* 图像文本转DOC，基于内置OCR(Free)
 * pdf 翻译
 * 论文翻译
-* 图像文本翻译，内置OCR(Free)
+* 图像文本翻译，基于内置OCR(Free)
 
 如果文档较大，可以在 YourTODO 记录待翻译pdf链接地址，或上传待翻译PDF。
 
