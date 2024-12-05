@@ -1,7 +1,7 @@
 # pdf-translate
 www.seefine.cn 
 
-* Free
+* 真 Free
 * 基于OpenAI大模型的翻译，专业的翻译效果
 * 基于专业OCR功能，完美支持扫描版PDF
 * PDF转DOC
