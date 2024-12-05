@@ -1,7 +1,21 @@
 # pdf-translate
-www.seefine.cn 免费 pdf 翻译网站，您可以直接使用网站翻译论文。
+www.seefine.cn 
 
-如果使用网站比较麻烦，可以在 YourTODO 增加文件，记录待翻译pdf地址，或者直接提交待翻译pdf，作者帮您翻译。
+## Free
+
+## PDF转DOC
+
+## 图像文本转DOC，内置OCR(Free)
+
+## pdf 翻译
+
+## 论文翻译
+
+## 图像文本翻译，内置OCR(Free)
+
+如果文档较大，可以在 YourTODO 记录待翻译pdf链接地址，或上传待翻译PDF。
+
+或者联系作者，进行专业批量处理。
 
 # 已翻译 translated
 
