@@ -1,17 +1,12 @@
 # pdf-translate
 www.seefine.cn 
 
-## Free
-
-## PDF转DOC
-
-## 图像文本转DOC，内置OCR(Free)
-
-## pdf 翻译
-
-## 论文翻译
-
-## 图像文本翻译，内置OCR(Free)
+* Free
+* PDF转DOC
+* 图像文本转DOC，内置OCR(Free)
+* pdf 翻译
+* 论文翻译
+* 图像文本翻译，内置OCR(Free)
 
 如果文档较大，可以在 YourTODO 记录待翻译pdf链接地址，或上传待翻译PDF。
 
